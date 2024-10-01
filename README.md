@@ -4,3 +4,4 @@
 
 - Created GitHub Account
 - Set the username as `dharasangani29`
+- Learnt how to push code to GitHub
